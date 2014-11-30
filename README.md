@@ -1,4 +1,4 @@
 chuck-package
 =============
 
-ChucK packages
+Contain Bower packages of ChucK.
